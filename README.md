@@ -2,6 +2,8 @@
 
 A full-screen wallpaper carousel for macOS. It opens on the wallpaper that is set now, shows the previous and next pictures on either side with their filenames, and sets the chosen picture as the wallpaper on every display and Space.
 
+![wallpicker: a carousel of wallpapers in greys, with the current one centred](docs/img/wallpicker.png)
+
 Part of [monochrome-macos-rice](https://github.com/orioshavfx/macos-monochrome-rice). It also works on its own.
 
 ## Build
