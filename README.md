@@ -9,7 +9,7 @@ Part of [monochrome-macos-rice](https://github.com/orioshavfx/macos-monochrome-r
 Needs macOS 13 or newer and the Swift toolchain (Xcode or the Command Line Tools).
 
 ```sh
-git clone https://github.com/orioshavfx/wallpicker
+git clone https://github.com/orioshavfx/Wallpicker
 cd wallpicker
 swift build -c release
 mkdir -p ~/bin && cp "$(swift build -c release --show-bin-path)/wallpicker" ~/bin/
